@@ -16,4 +16,4 @@ Tanggal 8 target poin : 125
 2. per orang wajib pegang satu repo untuk kontribusi URL path
 
 
-Tanggal 8 target poin : 125
+Tanggal 8 target poin : 150
