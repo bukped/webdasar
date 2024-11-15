@@ -20,6 +20,8 @@ Tanggal 8 target poin : 150
 
 ## Tugas Mingguan 5
 
+![image](https://github.com/user-attachments/assets/ea67420d-cfbd-45eb-aa40-3e62dcc3b7b2)
+
 1. Dalam 1 team minimal ada 1 domain yang sudah naik ke info gmaps user
 2. Sekarang setiap orang dalam satu team. masing-masing pegang 1 user/owner
 3. Kontak dan wawancarai keinginan user
