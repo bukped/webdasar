@@ -29,3 +29,4 @@ Tanggal 8 target poin : 150
 5. Domain bisa pake yang gratis yaitu id.biz.id atau berbayar dari user
 6. Sebelum UTS sudah naik semua ke info gmaps dari owner
 
+Target poin:180
