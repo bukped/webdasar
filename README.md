@@ -26,5 +26,6 @@ Tanggal 8 target poin : 150
 2. Sekarang setiap orang dalam satu team. masing-masing pegang 1 user/owner
 3. Kontak dan wawancarai keinginan user
 4. Per orang wajib pegang satu organisasi user owner
-5. Sebelum UTS sudah naik semua ke info gmaps dari owner
+5. Domain bisa pake yang gratis yaitu id.biz.id atau berbayar dari user
+6. Sebelum UTS sudah naik semua ke info gmaps dari owner
 
