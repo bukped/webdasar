@@ -34,7 +34,7 @@ Target poin:180
 
 ## Ujian Tengah Semester
 1. Semua situs yang dibuat sudah masuk ke dalam property google maps dari UMKM (nilai 50)
-2. Masing-masing situs wajib di daftarkan ke [Google Amalytics](https://analytics.google.com/) (Nilai 25)
+2. Masing-masing situs wajib di daftarkan ke [Google Analytics](https://analytics.google.com/) (Nilai 25)
 3. Masing-masing situs wajib di daftarkan ke [Google Search Console](https://search.google.com/) (Nilai 25)
 4. Satu situs yang dipegang oleh satu orang wajib memiliki minimal 10 unik visitor perhari
 
