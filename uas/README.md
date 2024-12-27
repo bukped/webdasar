@@ -24,4 +24,4 @@ Update checkpoin penilaian rekap di sini : https://github.com/Team-Informatika/r
 1. Buka dan pelajari tata cara pemakaian jscroot.if.co.id
 2. Coba gunakan fungsi renderHTML dari jscroot dengan cara import module
 3. Coba gunakan fungsi onClick, setInner dengna cara import module
-4. Buat tutorial di medium dan youtube tentang tata cara penggunaan ES Module menggunakan JSCroot 
+4. Buat tutorial di medium dan youtube tentang tata cara penggunaan ES Module menggunakan JSCroot dengan import fungsi renderHTML, onClick dan setInner
