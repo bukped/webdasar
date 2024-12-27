@@ -19,7 +19,9 @@ Pada pertemuan ini presentasikan:
 
 Pada pertemuan ini mencoba untuk mempelajari cara modifikasi element html dengan menggunakan javascript
 
-1. Buka dan pelajari jscroot.if.co.id
-2. Gunakan fungsi renderHTML dari jscroot
-3. Gunakan fungsi onClick, setInner
+Update checkpoin penilaian rekap di sini : https://github.com/Team-Informatika/rekap/blob/main/WEB/9C.md
 
+1. Buka dan pelajari tata cara pemakaian jscroot.if.co.id
+2. Coba gunakan fungsi renderHTML dari jscroot dengan cara import module
+3. Coba gunakan fungsi onClick, setInner dengna cara import module
+4. Buat tutorial di medium dan youtube
