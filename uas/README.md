@@ -25,3 +25,19 @@ Update checkpoin penilaian rekap di sini : https://github.com/Team-Informatika/r
 2. Coba gunakan fungsi renderHTML dari jscroot dengan cara import module
 3. Coba gunakan fungsi onClick, setInner dengna cara import module
 4. Buat tutorial di medium dan youtube tentang tata cara penggunaan ES Module menggunakan JSCroot dengan import fungsi renderHTML, onClick dan setInner
+
+
+## Tugas Ke 10 : JSON
+
+Pada pertemuan ini mencoba untuk membuat dan mempelajari cara menggunakan variabel JSON(JavaScript Object Notation)
+
+Update checkpoin penilaian rekap di sini : https://github.com/Team-Informatika/rekap/blob/main/WEB/10C.md
+
+Cekin menggunakan coin: Documentchain
+
+1. Buka dan pelajari tata cara pembuatan variabel JSON di javascipt, dari mulai deklarasi dan akses data di dalamnya.
+2. Paham mengenai CORS dan bisa mengerti cara memakai tools ekstensi browser CORS  
+   ![image](https://github.com/user-attachments/assets/09938ba8-3012-4d60-9a0d-1e522af7dc2c)  
+3. Coba gunakan fungsi getJSON dari jscroot dengan cara import module dengan contoh pengambilan data JSON dari : https://nomp.mofumofu.me/api/worker_stats?sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt
+4. Coba gunakan fungsi setInner dengna cara import module dari hasil pengolahan setelah getJSON sebelumnya ditampilkan pada situs yang dikembangkan saat ini.
+5. Buat tutorial di medium dan youtube tentang tata cara penggunaan ES Module menggunakan JSCroot dengan import fungsi getJSON, setInner, CORS dan JSON itu sendiri secara mendalam
