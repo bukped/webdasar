@@ -41,3 +41,15 @@ Cekin menggunakan coin: Documentchain
 3. Coba gunakan fungsi getJSON dari jscroot dengan cara import module dengan contoh pengambilan data JSON dari : https://nomp.mofumofu.me/api/worker_stats?sugar1qkyetyz6uypmuqaxd8hs763ymv40uk4negh30yt
 4. Coba gunakan fungsi setInner dengna cara import module dari hasil pengolahan setelah getJSON sebelumnya ditampilkan pada situs yang dikembangkan saat ini.
 5. Buat tutorial di medium dan youtube tentang tata cara penggunaan ES Module menggunakan JSCroot dengan import fungsi getJSON, setInner, CORS dan JSON itu sendiri secara mendalam
+
+
+## Tugas Ke 11 : JSCroot
+
+Pada pertemuan ini mencoba untuk membuat dan mempelajari cara menggunakan micro framework JSCroot
+
+Update checkpoin penilaian rekap di sini : https://github.com/Team-Informatika/rekap/blob/main/WEB/11C.md
+
+Cekin menggunakan coin: PlexHive
+
+1. Buka dan pelajari tata cara pembuatan website dengan JSCroot terutama getJSON, renderHTML getHash
+2. Implementasikan ke kartu nama digital
